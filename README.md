@@ -1,2 +1,2 @@
 # StayBill-Maven-
-Sistema de gestion y facturacion para empresas de hoteleria
+Sistema de gestión hotelera desarrollado en Java con FlatLaf y conexión a base de datos
