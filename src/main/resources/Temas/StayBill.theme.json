@@ -1,0 +1,55 @@
+{
+  "name": "StayBill",
+  "author": "Equipo StayBill",
+  "dark": true,
+
+  "colors": {
+    "Accent.color":                "#700238",
+    "Panel.background":            "#231f20",
+    "Viewport.background":         "#231f20",
+    "Label.foreground":            "#ecebf3",
+    "List.background":             "#231f20",
+    "List.foreground":             "#ecebf3",
+    "Table.background":            "#231f20",
+    "Table.foreground":            "#ecebf3",
+    "Menu.background":             "#231f20",
+    "Menu.foreground":             "#ecebf3",
+    "PopupMenu.background":        "#231f20",
+    "PopupMenu.foreground":        "#ecebf3",
+    "TextComponent.background":    "#2b2b2b",
+    "TextComponent.foreground":    "#ecebf3",
+    "TextComponent.inactiveBackground": "#2b2b2b",
+    "TextComponent.inactiveForeground": "#c7d2d5",
+    "Separator.foreground":        "#6d7175",
+    "Component.borderColor":       "#6d7175",
+    "Button.background":           "#2b2b2b",
+    "Button.foreground":           "#ecebf3",
+    "Button.disabledForeground":   "#c7d2d5",
+    "Button.disabledBackground":   "#2b2b2b",
+    "TabbedPane.underlineColor":   "#700238",
+    "ScrollBar.track":             "#2b2b2b",
+    "ScrollBar.thumb":             "#6d7175",
+    "Component.focusColor":        "#700238",
+    "Component.error.focusColor":  "#c0392b",
+    "Component.info.focusColor":   "#6d7175",
+    "Component.warning.focusColor":"#b36b00",
+    "Selection.background":        "#700238",
+    "Selection.foreground":        "#ecebf3",
+    "Component.disabledBorderColor":"#6d717577"
+  },
+
+  "ui": {
+    "*": {
+      "arc": 12,
+      "focusWidth": 1.0,
+      "innerFocusWidth": 0.0
+    },
+    "Button": {
+      "minimumWidth": 90
+    },
+    "Component": {
+      "borderWidth": 1
+    }
+  }
+}
+
